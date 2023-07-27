@@ -1,0 +1,8 @@
+D:\Simply Learn\day14\Assessment17\Assessment17\bin\Debug\Assessment17.exe.config
+D:\Simply Learn\day14\Assessment17\Assessment17\bin\Debug\Assessment17.exe
+D:\Simply Learn\day14\Assessment17\Assessment17\bin\Debug\Assessment17.pdb
+D:\Simply Learn\day14\Assessment17\Assessment17\obj\Debug\Assessment17.csproj.AssemblyReference.cache
+D:\Simply Learn\day14\Assessment17\Assessment17\obj\Debug\Assessment17.csproj.SuggestedBindingRedirects.cache
+D:\Simply Learn\day14\Assessment17\Assessment17\obj\Debug\Assessment17.csproj.CoreCompileInputs.cache
+D:\Simply Learn\day14\Assessment17\Assessment17\obj\Debug\Assessment17.exe
+D:\Simply Learn\day14\Assessment17\Assessment17\obj\Debug\Assessment17.pdb
